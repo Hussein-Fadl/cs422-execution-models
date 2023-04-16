@@ -1,11 +1,11 @@
 # CS422 Project 1 - Relational Operators and Execution Models
 
 This project covers five topics:
-a) the semantics of relational operators,
-b) the iterator execution model,
-c) execution using late materialization,
-d) simple optimization rules, and
-e) column-at-a-time execution.
+1. Semantics of Relational Operators,
+2. Iterator Execution Model,
+3. Execution using Late Materialization,
+4. Simple Query Optimization Rules, and
+5. Column-at-a-time Execution.
 We briefly introduce the provided infrastructure, before presenting the project's tasks.
 
 ## Infrastructure
