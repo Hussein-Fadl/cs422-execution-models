@@ -1,3 +1,4 @@
+.DS_Store
 /.bsp/sbt.json
 /.idea/libraries
 /project/project/target
